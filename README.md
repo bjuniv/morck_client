@@ -44,7 +44,7 @@ Github下载[Releases](https://github.com/wp0qw/morck_client/releases)
 
 # Preview
 
-![Alt text](https://github.com/morckclient/morck_client/blob/main/pic_202102101.PNG)
-![Alt text](https://github.com/morckclient/morck_client/blob/main/pic_202102102.PNG)
-![Alt text](https://github.com/morckclient/morck_client/blob/main/pic_202102103.PNG)
-![Alt text](https://github.com/morckclient/morck_client/blob/main/pic_202102104.PNG)
+![Alt text](https://github.com/morckclient/morck_client/blob/main/20210725141947.png)
+![Alt text](https://github.com/morckclient/morck_client/blob/main/20210725141605.png)
+![Alt text](https://github.com/morckclient/morck_client/blob/main/20210725141646.png)
+![Alt text](https://github.com/morckclient/morck_client/blob/main/20210725141713.png)
