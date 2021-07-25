@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/morckclient/morck_client/blob/main/logo1024x1024.png?raw=true" alt="Morck" width="200">
+  <img src="https://github.com/morckclient/morck_client/blob/main/logo.png?raw=true" alt="Morck" width="200">
   <br>Morck<br>
 </h1>
 
