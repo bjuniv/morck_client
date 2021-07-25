@@ -32,7 +32,7 @@
 |智能代理                 |√                  |跳转官网免登录                 |√
 
 # Download
-Github下载[Releases](https://github.com/wp0qw/morck_client/releases)
+Github下载[Releases](https://github.com/morckclient/morck_client/releases)
 
 # Telegram
 
