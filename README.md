@@ -36,7 +36,7 @@ Github下载[Releases](https://github.com/morckclient/morck_client/releases)
 
 # Telegram
 
-加入我们：[Telegram群组](https://t.me/morckcs)
+加入我们：[Telegram群组](https://t.me/morckcsq)
 
 加入我们：[Telegram通知频道](https://t.me/morckgroup)
 
