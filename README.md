@@ -7,7 +7,7 @@
 
 ## Introduction
 
-采用clash核心作为主Agent核心。
+采用clash核心作为代理核心。
 
 支持 v2borad面板、sspanel面板及各种sspanel衍生主题。
 
